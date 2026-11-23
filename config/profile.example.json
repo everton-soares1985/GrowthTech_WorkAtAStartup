@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "candidate": {
+    "name": "Candidate Name",
+    "positioning": "AI Operations & Automation Engineer",
+    "location": "Country",
+    "availability": "Immediately",
+    "work_preferences": [
+      "Remote",
+      "Full-time",
+      "Contract"
+    ],
+    "core_stack": [
+      "Python",
+      "REST APIs",
+      "LLM workflows",
+      "Agentic systems",
+      "Retrieval-Augmented Generation (RAG)",
+      "End-to-end system development",
+      "Browser automation"
+    ],
+    "truthfulness_rules": [
+      "Do not invent credentials or years of experience",
+      "Use transferable experience when the role is from another area"
+    ]
+  }
+}

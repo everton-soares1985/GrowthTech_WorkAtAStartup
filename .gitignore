@@ -1,0 +1,12 @@
+.env
+.venv/
+.chrome-profile/
+config/profile.local.json
+logs/*.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/

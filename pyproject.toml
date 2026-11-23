@@ -1,0 +1,9 @@
+[project]
+name = "growthtech-workatastartup"
+version = "0.1.0"
+description = "Supervised Work at a Startup application automation"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q --tb=short"
